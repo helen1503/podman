@@ -36,3 +36,4 @@ Podman dikembangkan oleh Red Hat sebagai bagian dari proyek libpod, dengan tujua
 1. Update repository:
    ```bash
    sudo apt update
+git commit -m "Menambahkan tutorial Podman"
